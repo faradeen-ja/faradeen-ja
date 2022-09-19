@@ -1,4 +1,6 @@
-### <h1 align="center">Hi there 👋 </h1>
+<h1 align="center"> Hi there👋
+<img align="center" src="https://github.com/faradeen-ja/complete-JavaScript-lectures-logs/blob/5ce542b9962ae400290a230145eb2af35d740e19/fullstackf.png"/>
+ </h1>
 
 <!--
 **faradeen-ja/faradeen-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
