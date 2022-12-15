@@ -3,6 +3,8 @@
  </h1>
  -->
 
+[![LinkedIn](https://img.shields.io/badge/View-Linkedin-9cf)](https://linkedin.com/in/faradeen "View LinkedIn")
+
 <!--
 **faradeen-ja/faradeen-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
