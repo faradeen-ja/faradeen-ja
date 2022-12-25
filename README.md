@@ -4,7 +4,7 @@
 
 [![Computer Sci](https://img.shields.io/badge/IT-SysAdmin-orange)](#target_blank "Target_blank")   [![LinkedIn](https://img.shields.io/badge/Dev-SFDC-9cf)](#target_blank) [![LinkedIn](https://img.shields.io/badge/Dev-AppSupport-gold)](#target_blank)
 
-Currently learning more <strong>techStacks</strong> to help the world one day- also working on a Salesforce Navigation Dashboard an AI enforced prototype, a personal project to show-case simplified Admins tasks execution while helping orgs with their business logics and processes. Thanks, See you in a bug-free module. 
+Currently learning more <strong>techStacks</strong> to help the world one day- also working on a Salesforce Navigation Dashboard an AI enforced prototype, a personal project to show-case simplified Admins tasks execution while helping orgs with their business logics and processes. Thanks, See you in a bug-free build. 
 
 
 
