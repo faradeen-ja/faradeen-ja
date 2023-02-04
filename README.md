@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there👋🤖🐤
 
-</h1> I specialize in 
+</h1> Some areas I have skills 
 
-[![Computer Sci](https://img.shields.io/badge/IT-SysAdmin-orange)](#target_blank "Target_blank")   [![LinkedIn](https://img.shields.io/badge/Dev-SFDC-9cf)](#target_blank) [![LinkedIn](https://img.shields.io/badge/Dev-AppSupport-gold)](#target_blank)
+[![Computer Sci](https://img.shields.io/badge/IT-General-orange)](#target_blank "Target_blank")  [![Admin](https://img.shields.io/badge/Admin-Salesforce-9cf)](#target_blank)   [![Dev](https://img.shields.io/badge/Dev-Salesforce-9cf)](#target_blank) [![Dev](https://img.shields.io/badge/Dev-Frontend-gold)](#target_blank)
 
 Currently learning more <strong>techStacks</strong>- also working on a Salesforce Navigation Dashboard an AI enforced prototype, a personal project to show-case simplified Admins tasks execution while helping orgs with their business logics and processes. Thanks, See you.
 
