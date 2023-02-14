@@ -4,6 +4,18 @@
 
 [![Computer Sci](https://img.shields.io/badge/IT-General-orange)](#target_blank "Target_blank")  [![Admin](https://img.shields.io/badge/Admin-Salesforce-9cf)](#target_blank)   [![Dev](https://img.shields.io/badge/Dev-Salesforce-9cf)](#target_blank) [![Dev](https://img.shields.io/badge/Dev-Frontend-gold)](#target_blank)
 
+
+<div align="center">
+
+[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#salesforce-administrator) 
+
+[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](https://linkedin.com/in/faradeen "View LinkedIn")
+
+[![JavaScript1](https://img.shields.io/badge/View-Linkedin-gold)](https://linkedin.com/in/faradeen "View LinkedIn")
+
+</div>
+
+
 Currently learning more <strong>techStacks</strong>- also working on a Salesforce Navigation Dashboard an AI enforced prototype, a personal project to show-case simplified Admins tasks execution while helping orgs with their business logics and processes. Thanks, See you.
 
 
