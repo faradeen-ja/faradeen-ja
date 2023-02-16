@@ -7,11 +7,11 @@
 
 <div align="center">
 
-[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#salesforce-administrator) 
+[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#target_blank) 
 
-[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](https)
+[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](#target_blank)
 
-[![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](target="blank" "alttext")
+[![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](#target="blank" "alttext")
 
 </div>
 
