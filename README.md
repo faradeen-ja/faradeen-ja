@@ -11,7 +11,7 @@
 
 [![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](https)
 
-[![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](https://linkedin.com/in/faradeen "View LinkedIn")
+[![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](target="blank" "alttext")
 
 </div>
 
