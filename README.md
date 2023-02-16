@@ -9,7 +9,7 @@
 
 [![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#target_blank) 
 
-[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](#target_blank)
+[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](#target)
 
 [![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](#target="blank" "alttext")
 
@@ -23,6 +23,11 @@ Currently learning more <strong>techStacks</strong>- also working on a Salesforc
 
 
 [![LinkedIn](https://img.shields.io/badge/View-Linkedin-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
+
+
+#### target
+
+
 
 <!--
 **faradeen-ja/faradeen-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
