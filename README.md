@@ -1,66 +1,39 @@
-<h1 align="center"> Hi there👋🤖🐤
-
-</h1> Some areas I have skills 
-
-[![Computer Sci](https://img.shields.io/badge/IT-General-orange)](#target_blank "Target_blank")  [![Admin](https://img.shields.io/badge/Admin-Salesforce-9cf)](#target_blank)   [![Dev](https://img.shields.io/badge/Dev-Salesforce-9cf)](#target_blank) [![Dev](https://img.shields.io/badge/Dev-Frontend-gold)](#target_blank)
-
-
 <div align="center">
 
-[![Admin](https://img.shields.io/badge/Admin-Certified-blue)](#target_blank) 
-
-[![AppBuilder](https://img.shields.io/badge/AppBuilder-Certified-lime)](#target)
-
-[![JavaScript1](https://img.shields.io/badge/JavaScriptDevI-Certified-gold)](#navline "alttext")
+[![Computer Sci](https://img.shields.io/badge/IT-General-orange)](#target_blank "Target_blank")  [![Admin](https://img.shields.io/badge/Admin-Salesforce-9cf)](#target_blank)   [![Dev](https://img.shields.io/badge/Dev-Salesforce-9cf)](#target_blank) [![Dev](https://img.shields.io/badge/Dev-Frontend-gold)](#target_blank)
+  <img src="https://komarev.com/ghpvc/?username=faradeen-ja&label=Profile%20views&color=0e75b6&style=flat" alt="faradeen-ja" /> 
 
 </div>
+  <div align="center">
+  <h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <br> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>    </p>
+    
+
+    
+</div>
+
+<div align="center">
+  
+<h1 align="center">Hi 👋, I'm FJ</h1>
+<h3 align="center">Software developer, Salesforce dev/admin</h3>
 
 
-Currently learning more <strong>techStacks</strong>- also working on a Salesforce Navigation Dashboard an AI enforced prototype, a personal project to show-case simplified Admins tasks execution while helping orgs with their business logics and processes. Thanks, See you.
-
-
-
-
-
-[![LinkedIn](https://img.shields.io/badge/View-Linkedin-blue)](https://linkedin.com/in/faradeen "View LinkedIn")
-
-
-## sample line 
-test
-
-
-
-### sample line 2 
-test
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faradeen-ja" alt="faradeen-ja" /></a> </p>
 
 
 
 
 
-#### target
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faradeen-ja&show_icons=true&locale=en" alt="faradeen-ja" /></p>
 
-
-
-test 
-
-test
-
-
-
-#### navline
-
-
-<!--
-**faradeen-ja/faradeen-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  </div>
+  
+  
+  
+<div align="center">
+<p align="center">
+<a href="https://linkedin.com/in/s://www.linkedin.com/in/faradeen/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10124/10124084.png" alt="s://www.linkedin.com/in/faradeen/" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/s://www.linkedin.com/in/faradeen/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/9990/9990752.png" alt="s://www.linkedin.com/in/faradeen/" height="40" width="40" /></a>
+</p>
+  </div>
