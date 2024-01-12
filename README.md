@@ -1,4 +1,9 @@
+<div align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=faradeen-ja&label=Profile%20views&color=0e75b6&style=flat" alt="faradeen-ja" /> 
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="faradeen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/faradeen?trk=profile-badge">Faradeen J.</a></div>
+              
 
 <div align="center">
   
