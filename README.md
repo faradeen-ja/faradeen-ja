@@ -1,10 +1,4 @@
-<div align="center">
 
-[![Computer Sci](https://img.shields.io/badge/IT-General-orange)](#target_blank "Target_blank")  [![Admin](https://img.shields.io/badge/Admin-Salesforce-9cf)](#target_blank)   [![Dev](https://img.shields.io/badge/Dev-Salesforce-9cf)](#target_blank) [![Dev](https://img.shields.io/badge/Dev-Frontend-gold)](#target_blank)
-  <img src="https://komarev.com/ghpvc/?username=faradeen-ja&label=Profile%20views&color=0e75b6&style=flat" alt="faradeen-ja" /> 
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="faradeen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/faradeen?trk=profile-badge">Faradeen J.</a></div>
-              
 
 <div align="center">
   
