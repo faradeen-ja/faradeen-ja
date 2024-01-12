@@ -9,7 +9,7 @@
   
 <h1 align="center">Hi 👋, I'm FJ</h1>
 <p>I am professional in Client success in a technical realm.</p>
-<p>I am currently working on a major personal project designing & builiding a web APP using AI such as ChaptGPT for modernizing work experiece In tech fields.</p>
+<p>I am currently working on a major professional project, designing & builiding a web APP using AI such as ChaptGPT for modernizing work experiece In tech fields.</p>
 
 
 
