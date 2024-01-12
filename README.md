@@ -1,13 +1,15 @@
-<div align="center">
+<div align="cente">
 
   <img src="https://komarev.com/ghpvc/?username=faradeen-ja&label=Profile%20views&color=0e75b6&style=flat" alt="faradeen-ja" /> 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="faradeen" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/faradeen?trk=profile-badge">Faradeen J.</a></div>
               
 
-<div align="center">
+<div align="cente">
   
 <h1 align="center">Hi 👋, I'm FJ</h1>
+<p>I am professional in Client success in a technical realm.</p>
+<p>I am currently working on a major personal project designing & builiding a web APP using AI such as ChaptGPT for modernizing work experiece In tech fields.</p>
 
 
 
