@@ -9,7 +9,7 @@
   
 <h1 align="center">Hi 👋, I'm FJ</h1>
 <p>I am professional in customer success and technical solutions both in traditional & technical realm coupled with a modern outlook.</p>
-<p>I am currently working on a major professional non-profit project I founded, designing & builiding a web APP using AI such as ChaptGPT, Bard for modernizing work experience in many fields.</p>
+<p>I am currently working on a major professional non-profit project I founded, designing & builiding a web APP using AI such as ChaptGPT, Bard for modernizing work experience in many tech/non-tech fields.</p>
 
 
 
