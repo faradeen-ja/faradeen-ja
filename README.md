@@ -8,8 +8,9 @@
 <div align="cente">
   
 <h1 align="center">Hi 👋, I'm FJ</h1>
-<p>I am professional in Client success both in traditional & technical realm coupled with a modern outlook.</p>
+<p>I am professional in customer success and technical solutions both in traditional & technical realm coupled with a modern outlook.</p>
 <p>I am currently working on a major professional project, designing & builiding a web APP using AI such as ChaptGPT, Bard for modernizing work experiece In tech fields.</p>
+  <img src="https://komarev.com/ghpvc/?username=faradeen-ja&label=Profile%20views&color=0e75b6&style=flat" alt="faradeen-ja" /> 
 
 
 
