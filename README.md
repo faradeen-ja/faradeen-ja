@@ -45,7 +45,7 @@ I'm an infrastructure architect and consultant specializing in **High-Performanc
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://www.linkedin.com/in/faradeen" target="_blank">
+    <a href="https://www.linkedin.com/in/faradayj" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Faradeen J's LinkedIn" height="30" width="40" />
     </a>
     <a href="https://faradeen-ja.github.io/TAM-Portfolio/" target="_blank">
