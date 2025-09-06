@@ -18,7 +18,6 @@ I bridge **executive strategy with technical depth**, guiding C-suite leaders, I
 
 ---
 
-### 🛠️ Core Stacks & Domains
 
 ### 🛠️ Core Stacks & Domains
 
