@@ -9,7 +9,8 @@
 I’m a **Technical Account Manager & Infrastructure Leader** with deep experience across **full-stack enterprise environments**—from **Layer 1–7 networks and HPC clusters** to **cloud, security, DevOps, and web platforms**.  
 My focus is on **driving adoption, ensuring stability, and leading enterprise success** for large-scale fleets and mission-critical workloads.  
 
-I bridge **executive strategy with technical depth**, guiding C-suite leaders, IT teams, and partners to achieve measurable outcomes in performance, security, and revenue growth.  
+Focused on trust, service stability, and clear outcomes.
+  
 
 **Explore my work:**  
 <a href="https://faradeen-ja.github.io/TAM-Portfolio/" target="_blank">**My Portfolio Website**</a>
