@@ -7,9 +7,8 @@
 ### 👋 Hi, I'm Faradeen!
 
 I’m a **Technical Account Manager & Infrastructure Leader** with deep experience across **full-stack enterprise environments**—from **Layer 1–7 networks and HPC clusters** to **cloud, security, DevOps, and web platforms**.  
-My focus is on **driving adoption, ensuring stability, and leading enterprise success** for large-scale fleets and mission-critical workloads.  
+Focused on trust, service stability, and clear outcomes. **driving adoption, leading enterprise success** for small-large-scale fleets and mission-critical workloads.  
 
-Focused on trust, service stability, and clear outcomes.
   
 
 **Explore my work:**  
