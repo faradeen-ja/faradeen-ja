@@ -8,7 +8,7 @@
 
 **My Mission:** To drive adoption, reduce technical friction, and ensure **security & stability** for mission-critical environments.
 
-<a href="https://faradeen-ja.github.io/TAM-Portfolio/" target="_blank">**🌐 Visit My Portfolio Website**</a>
+<!-- <a href="https://faradeen-ja.github.io/TAM-Portfolio/" target="_blank">**🌐 Visit My Portfolio Website**</a> -->
   
 </div>
 
